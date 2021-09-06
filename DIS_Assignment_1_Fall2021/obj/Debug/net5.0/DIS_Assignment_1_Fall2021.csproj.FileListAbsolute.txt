@@ -1,0 +1,16 @@
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\bin\Debug\net5.0\DIS_Assignment_1_Fall2021.exe
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\bin\Debug\net5.0\DIS_Assignment_1_Fall2021.deps.json
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\bin\Debug\net5.0\DIS_Assignment_1_Fall2021.runtimeconfig.json
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\bin\Debug\net5.0\DIS_Assignment_1_Fall2021.runtimeconfig.dev.json
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\bin\Debug\net5.0\DIS_Assignment_1_Fall2021.dll
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\bin\Debug\net5.0\ref\DIS_Assignment_1_Fall2021.dll
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\bin\Debug\net5.0\DIS_Assignment_1_Fall2021.pdb
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\obj\Debug\net5.0\DIS_Assignment_1_Fall2021.csproj.AssemblyReference.cache
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\obj\Debug\net5.0\DIS_Assignment_1_Fall2021.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\obj\Debug\net5.0\DIS_Assignment_1_Fall2021.AssemblyInfoInputs.cache
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\obj\Debug\net5.0\DIS_Assignment_1_Fall2021.AssemblyInfo.cs
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\obj\Debug\net5.0\DIS_Assignment_1_Fall2021.csproj.CoreCompileInputs.cache
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\obj\Debug\net5.0\DIS_Assignment_1_Fall2021.dll
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\obj\Debug\net5.0\ref\DIS_Assignment_1_Fall2021.dll
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\obj\Debug\net5.0\DIS_Assignment_1_Fall2021.pdb
+C:\Users\jaswa\OneDrive\Documents\Visual Studio 2019\DIS_Assignment_1_Fall2021\DIS_Assignment_1_Fall2021\obj\Debug\net5.0\DIS_Assignment_1_Fall2021.genruntimeconfig.cache
