@@ -7,6 +7,7 @@ namespace DIS_Assignment_1_Fall2021
     {
         static void Main(string[] args)
         {
+             //For completing this assignment, I took around 3 hours
             //Question 1
             Console.WriteLine("Q1 : Enter the string:");
             string s = Console.ReadLine();
